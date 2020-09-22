@@ -1,0 +1,8 @@
+xpcmdbutton = 66, 87, 855, 507, C, 132, 174, 921, 594, C
+modTruncatePathToFitControl = 76, 67, 865, 487, C
+mFileOpenSave = 105, 49, 921, 594, C
+clsFileAPI = 102, 35, 891, 577, C
+frmMain = 165, 0, 921, 594, , 7, 2, 902, 587, C
+CWizard = 66, 87, 855, 507, C
+modFileFolderExists = 88, 116, 877, 536, C
+modRes = 110, 145, 899, 565, C
